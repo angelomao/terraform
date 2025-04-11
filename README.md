@@ -1,1 +1,1 @@
-# terraform up & running code
+# terraform code for eks-automode
